@@ -1,4 +1,4 @@
-# Yelp_Image_Classification
+# Yelp Image Classification
 Based on popular research that suggests Spatial Pyramid Pooling (SPP) layers improve the accuracy of Convolutional Neural Networks(CNN), we look to apply the same method on a CNN RNN(Recurrent Neural Network) framework with the aim to classify a Yelp Image Dataset.
 
 ## Dataset 
